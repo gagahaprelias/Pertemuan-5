@@ -1,0 +1,15 @@
+h1 {
+    font-size: 32px;
+    font-weight: 600;
+    color: blue;
+}
+
+h2 {
+    font-size: 20px;
+
+}
+
+p {
+    font-size: 16px;
+    color: gray;
+}
